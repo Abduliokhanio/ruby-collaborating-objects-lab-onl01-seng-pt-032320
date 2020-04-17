@@ -1,3 +1,4 @@
+require 'pry'
 class Song
   
   attr_accessor :genre, :name, :artist, :artist_name
